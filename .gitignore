@@ -1,0 +1,7 @@
+src/__pycache__/*
+ui/untitled.ui
+credentials.json
+client.json
+client2.json
+.vscode/settings.json
+resource/*
